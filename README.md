@@ -119,6 +119,15 @@ L'application a été entièrement repensée. Voici l'intégralité des interfac
 
 ### 🕰️ Ancienne Version (2023)
 *La base historique du projet Wasselni.*
+
+| Recherche V1 | Résultats V1 | Détails Recherche V1 |
+|:---:|:---:|:---:|
+| <img src="assets/screenshots/rechercheV1.jpg" width="180" /> | <img src="assets/screenshots/resultatRechercheV1.jpg" width="180" /> | <img src="assets/screenshots/detailsRechercheV1.jpg" width="180" /> |
+
+| Profil V1 | Inscription V1 | Connexion V1 |
+|:---:|:---:|:---:|
+| <img src="assets/screenshots/ProfilV1.jpg" width="180" /> | <img src="assets/screenshots/inscriptionV1.jpg" width="180" /> | <img src="assets/screenshots/connexionV1.jpg" width="180" /> |
+
 | Mes Annonces V1 | Publier V1 | Véhicule V1 |
 |:---:|:---:|:---:|
 | <img src="assets/screenshots/mesAnnoncesV1.jpg" width="180" /> | <img src="assets/screenshots/publierV1.jpg" width="180" /> | <img src="assets/screenshots/vehiculeV1.jpg" width="180" /> |
@@ -127,13 +136,6 @@ L'application a été entièrement repensée. Voici l'intégralité des interfac
 |:---:|:---:|:---:|
 | <img src="assets/screenshots/notifV1.jpg" width="180" /> | <img src="assets/screenshots/mdpV1.jpg" width="180" /> | <img src="assets/screenshots/infoV1.jpg" width="180" /> |
 
-| Mes Annonces V1 | Publier V1 | Véhicule V1 |
-|:---:|:---:|:---:|
-| <img src="assets/screenshots/mesAnnoncesV1.jpg" width="180" /> | <img src="assets/screenshots/publierV1.jpg" width="180" /> | <img src="assets/screenshots/vehiculeV1.jpg" width="180" /> |
-
-| Notifications V1 | Mot de passe V1 | Infos V1 |
-|:---:|:---:|:---:|
-| <img src="assets/screenshots/notifV1.jpg" width="180" /> | <img src="assets/screenshots/mdpV1.jpg" width="180" /> | <img src="assets/screenshots/infoV1.jpg" width="180" /> |
 
 
 ---
