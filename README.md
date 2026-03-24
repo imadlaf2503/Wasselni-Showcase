@@ -92,6 +92,33 @@ L'application **Wasselni** offre une expérience complète pour les conducteurs 
 ## 📸 Galerie Complète & Évolution (2023 ➔ 2026)
 
 L'application a été entièrement repensée. Voici l'intégralité des interfaces de la **Version 1 (2023)** et de la **Nouvelle Version (2026)**.
+### 🆕 Version Actuelle (2026)
+*Une interface moderne optimisée pour l'expérience utilisateur.*
+
+| Recherche & Accueil | Résultats de Recherche | Détails Trajet (Mes Trajets) |
+|:---:|:---:|:---:|
+| <img src="assets/screenshots/rechercheV2.PNG" width="200" /> | <img src="assets/screenshots/resultatRechercheV2.PNG" width="200" /> | <img src="assets/screenshots/detailsResultatV2.PNG" width="200" /> |
+
+| Profil Utilisateur | Modifier Profil | Détails Mes Trajets |
+|:---:|:---:|:---:|
+| <img src="assets/screenshots/profilV2.PNG" width="200" /> | <img src="assets/screenshots/modifierV2.PNG" width="200" /> | <img src="assets/screenshots/detailsMesTrajetsV2.PNG" width="200" /> |
+
+| Inscription | Connexion | Mot de passe oublié |
+|:---:|:---:|:---:|
+| <img src="assets/screenshots/inscriptionV2.PNG" width="200" /> | <img src="assets/screenshots/ConnexionV2.PNG" width="200" /> | <img src="assets/screenshots/mdpV2.PNG" width="200" /> |
+
+| Ajouter un trajet | Mes Annonces | Mes Trajets |
+|:---:|:---:|:---:|
+| <img src="assets/screenshots/ajouterV2.PNG" width="200" /> | <img src="assets/screenshots/mesAnnoncesV2.PNG" width="200" /> | <img src="assets/screenshots/mestrajetsV2.PNG" width="200" /> |
+
+| Notifications | Véhicule | Splash Screen |
+|:---:|:---:|:---:|
+| <img src="assets/screenshots/notifV2.PNG" width="200" /> | <img src="assets/screenshots/vehiculeV2.PNG" width="200" /> | <img src="assets/screenshots/splashV2.PNG" width="200" /> |
+
+---
+
+### 🕰️ Ancienne Version (2023)
+*La base historique du projet Wasselni.*
 | Mes Annonces V1 | Publier V1 | Véhicule V1 |
 |:---:|:---:|:---:|
 | <img src="assets/screenshots/mesAnnoncesV1.jpg" width="180" /> | <img src="assets/screenshots/publierV1.jpg" width="180" /> | <img src="assets/screenshots/vehiculeV1.jpg" width="180" /> |
@@ -99,6 +126,15 @@ L'application a été entièrement repensée. Voici l'intégralité des interfac
 | Notifications V1 | Mot de passe V1 | Infos V1 |
 |:---:|:---:|:---:|
 | <img src="assets/screenshots/notifV1.jpg" width="180" /> | <img src="assets/screenshots/mdpV1.jpg" width="180" /> | <img src="assets/screenshots/infoV1.jpg" width="180" /> |
+
+| Mes Annonces V1 | Publier V1 | Véhicule V1 |
+|:---:|:---:|:---:|
+| <img src="assets/screenshots/mesAnnoncesV1.jpg" width="180" /> | <img src="assets/screenshots/publierV1.jpg" width="180" /> | <img src="assets/screenshots/vehiculeV1.jpg" width="180" /> |
+
+| Notifications V1 | Mot de passe V1 | Infos V1 |
+|:---:|:---:|:---:|
+| <img src="assets/screenshots/notifV1.jpg" width="180" /> | <img src="assets/screenshots/mdpV1.jpg" width="180" /> | <img src="assets/screenshots/infoV1.jpg" width="180" /> |
+
 
 ---
 ## 🧠 Défis Techniques & Apprentissages
